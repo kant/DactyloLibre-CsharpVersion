@@ -8,7 +8,7 @@ This video is only a demo, this is not necessarily the currenct code source.
 #### Question ?
 - [You can post it there](https://github.com/spoutnik911/DactyloLibre-CsharpVersion/labels/question)
 
-#### The next help are welcome
+#### If you know how to do any of the following listed below or are willing to help, you are welcome to do so.
 * [Improvement advices](https://github.com/spoutnik911/DactyloLibre-CsharpVersion/labels/enhancement)
 * [Bugs repports](https://github.com/spoutnik911/DactyloLibre-CsharpVersion/labels/bug)
 * [Creations helps](https://github.com/spoutnik911/DactyloLibre-CsharpVersion/pulls)
