@@ -2,7 +2,7 @@
 DactyloLibre is easy to use however, it is in its first version. I'm open for advice, suggestions on how to improve this program, evaluations, etc..
 
 #### Demo
-This picture is only a demo, this is not necessary the currenct code source
+This video is only a demo, this is not necessarily the currenct code source.
   <img src="demo/demo.gif" width="100%"/> 
  
 #### Question ?
