@@ -1,11 +1,11 @@
-### What about it 
-DactyloLibre is easy to use however, it is in its first version. I'm open for advice, suggestions on how to improve this program, evaluations, etc..
+### What is DactyloLibre about?
+DactyloLibre is fun and easy to use! However, this program is in its first version. I'm open for advice, suggestions on how to improve this program, evaluations, etc..
 
 #### Demo
 This video is only a demo, this is not necessarily the currenct code source.
   <img src="demo/demo.gif" width="100%"/> 
  
-#### Question ?
+#### Questions?
 - [You can post it there](https://github.com/spoutnik911/DactyloLibre-CsharpVersion/labels/question)
 
 #### If you know how to do any of the following listed below or are willing to help, you are welcome to do so.
