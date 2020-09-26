@@ -1,5 +1,5 @@
 ### What about it 
-DactyloLibre ist usable However, it is its first time testing version, I'm open for advices, improvement, suggestions. evaluation. etc..
+DactyloLibre is easy to use however, it is in its first version. I'm open for advice, suggestions on how to improve this program, evaluations, etc..
 
 #### Demo
 This picture is only a demo, this is not necessary the currenct code source
